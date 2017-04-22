@@ -1,0 +1,2 @@
+# OMNISql
+Anti SQLinjection Library
